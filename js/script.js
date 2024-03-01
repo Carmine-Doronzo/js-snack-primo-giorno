@@ -10,7 +10,7 @@ console.log('numero',number);
 
 const PI = (3.14); //number
 
-console.log('PIgreco',PI)
+console.log('PIgreco',PI);
 
 
 
@@ -27,9 +27,9 @@ console.log('PIgreco',PI)
 */
 
 let radius =(8);//number
-let circle =(radius*2*PI)
+let circle =(radius*2*PI);
 
-console.log('cerchio',circle)
+console.log('cerchio',circle);
 
 
 
@@ -43,4 +43,4 @@ console.log('cerchio',circle)
 let name =('carlo');//string
     name =('Marco');//string
 
-    console.log('Nome',name)
+    console.log('Nome',name);
